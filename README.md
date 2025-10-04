@@ -81,8 +81,3 @@ npm run dev
 
 ## 총 소요 시간
 - 약 11시간 (설계 검토 2h / 데이터·UI 구현 6h / 반응형·Polish 3h)
-
-## 제출물 요약
-- 실행 가능한 Next.js 앱 (`npm install && npm run dev`)
-- README(본 문서) – 가정, 설계 결정, 반응형 전략, UI/UX 이유, 총 소요 시간 포함
-- 추가 문서 불필요(요구 사항에 따라 README로 대체)
